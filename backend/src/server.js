@@ -8,6 +8,7 @@ const server = express();
 mongoose.connect('mongodb+srv://gustavohst:admin@cluster0-ctfhc.mongodb.net/omnistack8?retryWrites=true&w=majority', {
     useNewUrlParser: true
 });
+
 server.use(express.json());
 server.use(routes);
 
