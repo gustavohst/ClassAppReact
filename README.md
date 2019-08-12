@@ -1,2 +1,2 @@
 # ClassAppReact
-Create app using react JS e React Native
+Create app using node.js , react JS e React Native
